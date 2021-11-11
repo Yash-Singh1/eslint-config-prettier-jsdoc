@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-prettier-jsdoc",
+  "version": "0.0.1",
+  "description": "Disables rules that conflict between prettier-plugin-jsdoc and eslint-plugin-jsdoc",
+  "main": ".eslintrc.js",
+  "author": "Yash Singh",
+  "license": "MIT"
+}
